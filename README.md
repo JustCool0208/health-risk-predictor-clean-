@@ -6,7 +6,7 @@ This is a Health Prediction API that uses Machine Learning to assess the risk of
 Features
 
 <br>
---> User Authentication (Signup/Login) (Works on a simple database match for now , will be made secure using json in the later phases of the project)
+--> User Authentication (Signup/Login) (Works on a simple database match for now , will be made secure using jwt in the later phases of the project)
 
 <br>
 --> Health Data Submission
