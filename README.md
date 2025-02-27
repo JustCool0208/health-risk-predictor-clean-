@@ -1,4 +1,4 @@
-<h1>Health Risk Predictor</h1> <p>(simple)</p>
+<h1>Health Risk Predictor</h1> 
 This is a Health Prediction API that uses Machine Learning to assess the risk of cardiac arrest based on user health data. It allows users to submit their health data, receive AI-based risk assessments, and view analytics on an admin dashboard.
 <br>
 
